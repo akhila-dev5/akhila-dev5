@@ -55,8 +55,6 @@ HCLTech | Microsoft Azure Linux
 - CI/CD
 -->
 
----
-
 ## 🛠️ Areas of Interest
 
 - AI Evaluation
@@ -68,7 +66,6 @@ HCLTech | Microsoft Azure Linux
 - Linux Internals
 - Python Automation
 
----
 
 ## 🌱 Currently Learning
 
@@ -79,7 +76,6 @@ HCLTech | Microsoft Azure Linux
 - Cloud Security
 - Secure AI Deployment
 
----
 
 ## 💼 Background
 
@@ -87,7 +83,6 @@ Currently working as a **Technical Lead** at **HCLTech** supporting **Microsoft 
 
 This experience has given me a strong foundation in secure software engineering, which I'm now applying to AI systems and security.
 
----
 
 ## 🔬 Current Focus
 
@@ -99,7 +94,6 @@ I'm building projects around:
 - AI-assisted developer workflows
 - Secure software engineering
 
----
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akhila-guruju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurujuakhila.dev@gmail.com) 
@@ -124,7 +118,7 @@ I'm building projects around:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akhila-guruju&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
----
+
 [![](https://komarev.com/ghpvc/?username=akhila-guruju&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -14,17 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I'm Akhila 👋
-I'm a Software Engineer at HCLTech contributing to Microsoft's Azure Linux, focused on CVE remediation, RPM packaging, distribution engineering, and secure software supply chains.<br><br>I specialize in analyzing upstream security fixes, performing safe backporting, debugging package build failures, and improving package quality across Linux distributions.<br><br>I'm passionate about building secure, reliable, and maintainable Linux systems that protect enterprise customers without introducing regressions.
+Software Engineer passionate about **AI Security**, **LLM Evaluation**, and **Secure Software Engineering**.
 
-## 🚀 Current Work
-Technical Lead
-HCLTech | Microsoft Azure Linux
+I enjoy understanding how complex systems work, finding security issues, analyzing vulnerabilities, and building reliable automation around them. My background includes Linux security engineering, CVE analysis, and secure software maintenance, and I'm now expanding into AI evaluation, AI agents, and secure AI systems.
 
-- Remediated 200+ CVEs across core system packages.
-- Performed upstream commit analysis to isolate security fixes from behavior-changing modifications.
-- Resolved 40+ package build failures through RPM packaging and .spec file debugging.
-- Authored and fixed 30+ ptests to improve distro validation coverage.
-- Mentored engineers on CVE workflows, RPM packaging, and patch safety practices.
+## 🚀 What I'm Working On
+
+- 🤖 AI Evaluation & LLM benchmarking
+- 🔐 Security engineering and vulnerability research
+- 🛡️ Secure AI systems and AI safety
+- ⚙️ Python automation for security workflows
+- 📚 Building projects around AI agents and evaluation pipelines
+
+<!--
 ## 🛠️ Core Expertise
 - Linux Security & CVE Remediation
 - RPM Packaging & .spec File Debugging
@@ -35,24 +37,83 @@ HCLTech | Microsoft Azure Linux
 - CI/CD Automation
 - Secure Software Supply Chain
 
+## 🚀 Current Work
+Technical Lead
+HCLTech | Microsoft Azure Linux
+
+- Remediated 200+ CVEs across core system packages.
+- Performed upstream commit analysis to isolate security fixes from behavior-changing modifications.
+- Resolved 40+ package build failures through RPM packaging and .spec file debugging.
+- Authored and fixed 30+ ptests to improve distro validation coverage.
+- Mentored engineers on CVE workflows, RPM packaging, and patch safety practices.
+
 ## 🌱 Currently Learning
 - Linux Security Engineering
 - Cloud Computing
 - Vulnerability Assessment & Management
 - Advanced Bash & Python Automation
 - CI/CD
+-->
 
-## 🌐 Socials:
+---
+
+## 🛠️ Areas of Interest
+
+- AI Evaluation
+- AI Security
+- LLMs & Agentic AI
+- Vulnerability Research (CVE/CWE)
+- Secure Software Development
+- Application Security
+- Linux Internals
+- Python Automation
+
+---
+
+## 🌱 Currently Learning
+
+- LLM Evaluation Frameworks
+- AI Red Teaming
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Cloud Security
+- Secure AI Deployment
+
+---
+
+## 💼 Background
+
+Currently working as a **Technical Lead** at **HCLTech** supporting **Microsoft Azure Linux**, where I work on Linux security engineering, vulnerability remediation, build systems, and software reliability.
+
+This experience has given me a strong foundation in secure software engineering, which I'm now applying to AI systems and security.
+
+---
+
+## 🔬 Current Focus
+
+I'm building projects around:
+
+- AI evaluation
+- Security-focused automation
+- LLM testing and benchmarking
+- AI-assisted developer workflows
+- Secure software engineering
+
+---
+
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akhila-guruju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurujuakhila.dev@gmail.com) 
 
+---
+> *Interested in AI Security, LLM Evaluation, Security Engineering, and building trustworthy AI systems.*
 <!--
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 -->
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=akhila-guruju&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<!--
+
 ![](https://streak-stats.demolab.com/?user=akhila-guruju&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akhila-guruju&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->

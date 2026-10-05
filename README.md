@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I'm Akhila 👋
-Software Engineer passionate about **AI Security**, **LLM Evaluation**, and **Secure Software Engineering**.
+Software Engineer passionate about **Secure Software Engineering**, **AI Security**, and **LLM Evaluation**.
 
 I enjoy understanding how complex systems work, finding security issues, analyzing vulnerabilities, and building reliable automation around them. My background includes Linux security engineering, CVE analysis, and secure software maintenance, and I'm now expanding into AI evaluation, AI agents, and secure AI systems.
 
 ## 🚀 What I'm Working On
 
-- 🤖 AI Evaluation & LLM benchmarking
 - 🔐 Security engineering and vulnerability research
-- 🛡️ Secure AI systems and AI safety
 - ⚙️ Python automation for security workflows
 - 📚 Building projects around AI agents and evaluation pipelines
-
+- 🤖 AI Evaluation & LLM benchmarking
+<!-- - 🛡️ Secure AI systems and AI safety -->
 <!--
 ## 🛠️ Core Expertise
 - Linux Security & CVE Remediation
@@ -57,23 +56,21 @@ HCLTech | Microsoft Azure Linux
 
 ## 🛠️ Areas of Interest
 
-- AI Evaluation
-- AI Security
 - LLMs & Agentic AI
 - Vulnerability Research (CVE/CWE)
 - Secure Software Development
 - Application Security
 - Linux Internals
 - Python Automation
+- AI Evaluation
+- AI Security
 
 
 ## 🌱 Currently Learning
 
 - LLM Evaluation Frameworks
-- AI Red Teaming
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
-- Cloud Security
 - Secure AI Deployment
 
 

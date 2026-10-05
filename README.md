@@ -114,7 +114,6 @@ I'm building projects around:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akhila-guruju&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
 
 [![](https://komarev.com/ghpvc/?username=akhila-guruju&icon=0&color=0)](https://visitcount.itsvg.in)
 
